@@ -1,0 +1,158 @@
+[
+  {
+    "codigo": "GB-299C1F",
+    "cliente": "Jean Paul",
+    "tipo_entrega": "recoger",
+    "direccion": null,
+    "items": [
+      {
+        "id": "P1",
+        "nombre": "Pizza margarita",
+        "categoria": "pizzas",
+        "precio": 32000,
+        "cantidad": 2,
+        "subtotal": 64000
+      }
+    ],
+    "total": 64000,
+    "estado": "cancelado",
+    "creado_en": "2026-09-14T02:58:47",
+    "cancelado_en": "2026-09-14T03:06:42"
+  },
+  {
+    "codigo": "GB-7F7705",
+    "cliente": "Jean Paul",
+    "tipo_entrega": "recoger",
+    "direccion": null,
+    "items": [
+      {
+        "id": "P1",
+        "nombre": "Pizza margarita",
+        "categoria": "pizzas",
+        "precio": 32000,
+        "cantidad": 2,
+        "subtotal": 64000
+      }
+    ],
+    "total": 64000,
+    "estado": "confirmado",
+    "creado_en": "2026-09-14T03:03:00",
+    "cancelado_en": null
+  },
+  {
+    "codigo": "GB-58E03A",
+    "cliente": "Jean Paul",
+    "tipo_entrega": "recoger",
+    "direccion": null,
+    "items": [
+      {
+        "id": "P1",
+        "nombre": "Pizza margarita",
+        "categoria": "pizzas",
+        "precio": 32000,
+        "cantidad": 2,
+        "subtotal": 64000
+      }
+    ],
+    "total": 64000,
+    "estado": "confirmado",
+    "creado_en": "2026-09-14T09:28:54",
+    "cancelado_en": null
+  },
+  {
+    "codigo": "GB-8901E3",
+    "cliente": "Jean Paul",
+    "tipo_entrega": "domicilio",
+    "direccion": "Barrio la union",
+    "items": [
+      {
+        "id": "P1",
+        "nombre": "Pizza margarita",
+        "categoria": "pizzas",
+        "precio": 32000,
+        "cantidad": 2,
+        "subtotal": 64000
+      },
+      {
+        "id": "H1",
+        "nombre": "Hamburguesa clasica",
+        "categoria": "hamburguesas",
+        "precio": 25000,
+        "cantidad": 1,
+        "subtotal": 25000
+      },
+      {
+        "id": "B2",
+        "nombre": "Limonada natural",
+        "categoria": "bebidas",
+        "precio": 7000,
+        "cantidad": 3,
+        "subtotal": 21000
+      }
+    ],
+    "total": 114000,
+    "estado": "cancelado",
+    "creado_en": "2026-09-14T10:32:53",
+    "cancelado_en": "2026-09-14T10:34:12"
+  },
+  {
+    "codigo": "GB-2896A8",
+    "cliente": "Jean Paul",
+    "tipo_entrega": "recoger",
+    "direccion": null,
+    "items": [
+      {
+        "id": "P1",
+        "nombre": "Pizza margarita",
+        "categoria": "pizzas",
+        "precio": 32000,
+        "cantidad": 1,
+        "subtotal": 32000
+      }
+    ],
+    "total": 32000,
+    "estado": "confirmado",
+    "creado_en": "2026-09-14T10:37:15",
+    "cancelado_en": null
+  },
+  {
+    "codigo": "GB-BE279E",
+    "cliente": "Paul",
+    "tipo_entrega": "recoger",
+    "direccion": null,
+    "items": [
+      {
+        "id": "P1",
+        "nombre": "Pizza margarita",
+        "categoria": "pizzas",
+        "precio": 32000,
+        "cantidad": 2,
+        "subtotal": 64000
+      }
+    ],
+    "total": 64000,
+    "estado": "confirmado",
+    "creado_en": "2026-10-04T17:48:17",
+    "cancelado_en": null
+  },
+  {
+    "codigo": "GB-F30B9F",
+    "cliente": "Paul",
+    "tipo_entrega": "recoger",
+    "direccion": null,
+    "items": [
+      {
+        "id": "P1",
+        "nombre": "Pizza margarita",
+        "categoria": "pizzas",
+        "precio": 32000,
+        "cantidad": 2,
+        "subtotal": 64000
+      }
+    ],
+    "total": 64000,
+    "estado": "confirmado",
+    "creado_en": "2026-10-04T17:51:52",
+    "cancelado_en": null
+  }
+]

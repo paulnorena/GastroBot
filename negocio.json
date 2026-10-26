@@ -1,0 +1,32 @@
+{
+  "nombre": "GastroBott",
+  "horario": {
+    "dias": ["lunes", "martes", "miercoles", "jueves", "viernes", "sabado", "domingo"],
+    "apertura": "00:00",
+    "cierre": "23:59"
+  },
+  "tipos_entrega": ["domicilio", "recoger"],
+  "domicilio": {
+    "costo": 4000,
+    "tiempo_estimado_min": 35,
+    "zonas_cubiertas": ["Centro", "Norte", "Chapinero"]
+  },
+  "recoger": {
+    "tiempo_estimado_min": 15
+  },
+  "menu": [
+    { "id": "P1", "nombre": "Pizza margarita", "categoria": "pizzas", "precio": 32000 },
+    { "id": "P2", "nombre": "Pizza pepperoni", "categoria": "pizzas", "precio": 36000 },
+    { "id": "H1", "nombre": "Hamburguesa clasica", "categoria": "hamburguesas", "precio": 25000 },
+    { "id": "H2", "nombre": "Hamburguesa doble carne", "categoria": "hamburguesas", "precio": 31000 },
+    { "id": "E1", "nombre": "Papas a la francesa", "categoria": "entradas", "precio": 12000 },
+    { "id": "B1", "nombre": "Gaseosa 400ml", "categoria": "bebidas", "precio": 6000 },
+    { "id": "B2", "nombre": "Limonada natural", "categoria": "bebidas", "precio": 7000 }
+  ],
+  "condiciones": [
+    "Pedido minimo de $20.000 para domicilio.",
+    "Un mismo pedido no puede combinar productos fuera del menu.",
+    "Confirmacion obligatoria antes de registrar el pedido."
+  ],
+  "nota": "Negocio, direccion y datos ficticios para la practica academica."
+}
